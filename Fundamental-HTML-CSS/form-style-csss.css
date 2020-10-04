@@ -1,0 +1,14 @@
+.form-style{
+  display: block;
+  margin-bottom: 25px;
+}
+.form-style .input{
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+  margin-top: 5px;
+  box-sizing: border-box; /*untuk menghilangkan padding*/
+}
+fieldset{
+  border-color: white;
+}
